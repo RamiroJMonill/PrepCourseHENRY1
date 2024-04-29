@@ -1,2 +1,1 @@
-# PrepCourseHENRY1
-Mi primer repositorio de prueba.
+Proyecto de prueba, mi nombre es Ramiro Monill. 
